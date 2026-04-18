@@ -40,6 +40,7 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 **1. Repositório selecionado:** https://github.com/Modernizr/Modernizr.git
 
 **2. Explicação:** 
+<img width="606" height="336" alt="Captura de Tela 2026-04-17 às 22 22 28" src="https://github.com/user-attachments/assets/83ca4ae8-d235-4877-ac98-78cfc005fb33" />
 
 O projeto possui 381 arquivos fonte e organiza seus testes em três categorias distintas:
 Tests(22), Test Helpers(62), CI Tests(2)
