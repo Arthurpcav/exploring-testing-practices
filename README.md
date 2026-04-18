@@ -37,6 +37,11 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `<URL_DO_REPOSITÓRIO_AQUI>`
+**1. Repositório selecionado:** https://github.com/Modernizr/Modernizr.git
 
-**2. Explicação:** `<SUA_EXPLICAÇÃO_AQUI>`
+**2. Explicação:** 
+
+O projeto possui 381 arquivos fonte e organiza seus testes em três categorias distintas:
+Tests(22), Test Helpers(62), CI Tests(2)
+
+Essa separação revela uma prática importante: distinção entre testes funcionais, auxiliares de teste e testes de integração contínua (CI). Os Test Helpers são utilitários que apoiam os testes principais, como funções para CSS, manipulação de classes e builds, sem serem testes em si. Isso indica uma arquitetura de testes bem modularizada.
